@@ -1,14 +1,13 @@
 site_name: Ivanova Test
 nav:
   - Home: index.md
-  - About: about.md
-  - Docker Containers:
-      - Overview: docker-containers.md
-      - Adguard: adguard.md
+  - About: 
+      - University: university.md
+      - Specialty: specialty.md
       # Additional Docker container pages...
-  - Networking:
-      - Overview: networking-overview.md
-      - GlusterFS: glusterfs.md
+  #- Networking:
+  #    - Overview: networking-overview.md
+  #    - GlusterFS: glusterfs.md
   # Additional sections...
 
 theme:
